@@ -10,7 +10,7 @@
 
 
 ## Introduction    
-This application will be live from July 17th to July 31st at 11:59 PM EST.
+This application will be live from August 9th to August 20th at 11:59 PM EST.
 
 These challenges are meant to test your ability in a variety of topics, such as programming, debugging, and documenting code.
 
